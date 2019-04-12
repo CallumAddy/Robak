@@ -1,1 +1,6 @@
+I'm Callum Addy and my role for this project was a programmer, the main job I worked on was the abilities for the main character called Robak. I also worked on a dialogue system as well as the background work for the UI.
+
+To build our game we were using the Unreal Engine 4, I had never used Unreal prior to this project so it was a good experience throwing myself into the deep end, I learnt a lot throughout this project, Unreal Engine uses C++ as it's programming language which I was new to as well.
+
+Robak had 3 abilities which I worked on one was a double jump glide kind of mechanic, another ability was a climbing ability and the final ability was a sword attack. The game state isn't to the standard we would have hoped it's more of a prototype of the game we hoped to make which leaves me to believe that we overscoped our project. The climbing ability I struggled with at first because I didn't know how to make the character not turn when you were climbing to the side, which I later found out there was a boolean in the back end code of the character, I also had to learn about line traces but in the end I was happy with the climbing ability.
 
